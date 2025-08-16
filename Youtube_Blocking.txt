@@ -1,3 +1,15 @@
+# Title: Personnal Youtube Blocking Hosts
+#
+# This hosts file is a personnal blocking Youtube access for children
+# It was sourced by ChatGPT and personnal investigation
+#
+# Date: 16 August 2025 14:23 (UTC)
+#
+# Project home page: https://github.com/Alesk13/ExternLoc/edit/main/Youtube_Blocking.txt
+# PInitial release: https://github.com/Alesk13/ExternLoc/edit/main/Youtube_Blocking.Alex
+#
+# ===============================================================
+
 127.0.0.1 youtube.com
 127.0.0.1 www.youtube.com
 127.0.0.1 m.youtube.com
