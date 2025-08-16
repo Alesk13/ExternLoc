@@ -1,4 +1,4 @@
-# Title: Personnal Youtube Blocking Hosts
+# Title: Alex - Personnal Youtube Blocking Hosts
 #
 # This hosts file is a personnal blocking Youtube access for children
 # It was sourced by ChatGPT and personnal investigation
@@ -30,3 +30,10 @@
 127.0.0.1 youtube-ui.l.google.com
 127.0.0.1 music.youtube.com
 127.0.0.1 ytimg.l.google.com
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
